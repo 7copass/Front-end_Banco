@@ -1,0 +1,28 @@
+.inputs{
+    display: flex;   
+    flex-wrap: wrap;
+    padding: 25px;
+    margin: 0 auto;
+}
+
+.box-input{
+    display: flex;
+    flex-direction: column;
+    margin-right: 2rem;
+}
+
+.dados{
+    margin-top: 3rem;
+}
+
+.msg{
+    width: 75%;
+    padding: 1em;
+    border: 1px solid #000;
+    margin: 0 auto;
+    margin-bottom: 2em;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #e69696;
+    border-color: #db6161;
+}

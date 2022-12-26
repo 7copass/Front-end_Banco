@@ -1,0 +1,16 @@
+.container{
+    width: 655px;
+    border: solid 2px #ccc;
+}
+span{
+    font-weight: bolder;
+}
+
+.saldo{
+    display: flex;    
+}
+
+.saldo > h6{
+    margin-right: 2em;
+}
+
